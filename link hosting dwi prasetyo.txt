@@ -1,0 +1,11 @@
+link hosting
+tyo-p1.wuaze.com
+
+username : admin
+password : admin123
+
+username : petugas
+password : petugas123
+
+username : peminjam
+password : peminjam123
